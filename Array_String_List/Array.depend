@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1742862006 source:f:\study\c\code_block\b1_mang\array\src\array.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
+1743132697 source:f:\study\c\code_block\b1_mang\array\src\string.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1743134441 source:f:\study\c\code_block\b1_mang\array\src\main.c
+	"main.h"
+
+1743133094 f:\study\c\code_block\b1_mang\array\incl\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"array.h"
+	"string.h"
+	"list.h"
+
+1742862098 f:\study\c\code_block\b1_mang\array\incl\array.h
+
+1743132691 f:\study\c\code_block\b1_mang\array\incl\string.h
+
+1743134511 f:\study\c\code_block\b1_mang\array\incl\list.h
+
+1743134348 source:f:\study\c\code_block\b1_mang\array\src\list.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
